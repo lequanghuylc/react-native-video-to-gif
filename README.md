@@ -11,7 +11,7 @@ Note: this project is ios only, but any PR are welcome
 npm install react-native-video-to-gif --save
 ```
 ### Auto linking
-* Run `react-native link react-native-video-to-gif` or...
+* Not yet supported for now, any PR are welcome 
 
 ### Manual linking
 * Add `RNNSGif.xcodeproj` to Libraríe folder on Xcode Project :

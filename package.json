@@ -1,6 +1,6 @@
 {
   "name": "react-native-video-to-gif",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React Native module that convert video to gif",
   "main": "index.js",
   "repository": {
