@@ -1,5 +1,17 @@
 {
   "name": "react-native-video-to-gif",
-  "version": "0.0.1",
-  "keywords": "react-native"
+  "version": "0.0.2",
+  "description": "React Native module that convert video to gif",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lequanghuylc/react-native-video-to-gif"
+  },
+  "keywords": ["video", "gif", "react", "native", "ios"],
+  "author": "Le Quang Huy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lequanghuylc/react-native-video-to-gif/issues"
+  },
+  "homepage": "https://github.com/lequanghuylc/react-native-video-to-gif#readme"
 }
